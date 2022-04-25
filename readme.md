@@ -21,5 +21,6 @@
 :smile:
 
 ## Tables
-name | class
+Name | Class
 --- | ---|
+Number | Anything
