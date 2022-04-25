@@ -19,3 +19,5 @@
 | Name | Class | Level | Language |
 |---|---|---|---|
 | Wolf Class | Zoo-Klasse | Advanced | German |
+| 1 Class | 2 Class | 3 Class | English |
+
