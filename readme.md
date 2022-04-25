@@ -22,9 +22,9 @@
 :smile:
 
 ## Tables
-Name | Class | Jahrgang
+Name | Vorname | Alter
 --- | --- | --- |
-Number | Anything | 3A 
+Ahmedova | Kesban | 28 
 
 ## Video
 [Adele - Easy on me](https://www.youtube.com/results?search_query=adele+easy+on+me)
