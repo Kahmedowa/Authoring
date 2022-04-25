@@ -8,7 +8,8 @@
 - [ ] [Table](#tables)
 
 ## External Link 
-[Github](https://help.github.com/en)
+[Github](https://docs.github.com/en)
+[Beispiel](https://docs.github.com/en)
 
 ## Internal Link
 [Images](/images/)
