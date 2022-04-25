@@ -4,10 +4,10 @@
 - [ ] External Link
 - [ ] Internal Link
 - [ ] Image
-- [ ] Emoji
+- [x] Emoji
 - [ ] Table
 
-##External Link 
+## External Link 
 [Github](https://help.github.com/en)
 
 ## Internal Link
