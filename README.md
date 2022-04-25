@@ -1,8 +1,15 @@
 # Github Flavoured Markdown
 
-## Checkboxes
+## Checkboxes 
 - [ ] External Link
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
 - [ ] Tables
+
+## Emojis
+
+:bowtie:
+😸:
+
+## Tabellen
