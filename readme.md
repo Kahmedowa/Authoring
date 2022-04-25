@@ -1,11 +1,11 @@
 # Github Flavoured Markdown
 
 ## Checkboxes
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Image
-- [x] Emoji
-- [ ] Table
+- [ ] [External Link](#external-link)
+- [ ] [Internal Link](#internal-link) 
+- [ ] [Image](#link)  
+- [x] [Emoji](#emojis)
+- [ ] [Table](#tables)
 
 ## External Link 
 [Github](https://help.github.com/en)
@@ -24,4 +24,3 @@
 Name | Class | Jahrgang
 --- | --- | --- |
 Number | Anything | 3A 
-
