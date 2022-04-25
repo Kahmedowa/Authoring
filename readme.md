@@ -21,6 +21,7 @@
 :smile:
 
 ## Tables
-Name | Class
---- | ---|
-Number | Anything
+Name | Class | Jahrgang
+--- | --- | --- |
+Number | Anything | 3A 
+
