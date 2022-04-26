@@ -19,7 +19,7 @@
 
 ## Länder, die ich besucht habe:
 
-- <span style="color:darkblue">**Malta**</span>
+- <span style="color:darkblue">**[Malta]()**</span>
 
 ![Malta](https://www.visitmalta.com/wp-content/uploads/2021/05/shutterstock_1413619622-scaled.jpg)
 
