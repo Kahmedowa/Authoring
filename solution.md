@@ -19,7 +19,6 @@
 
 ## Länder, die ich besucht habe:
 
-<<<<<<< HEAD
 - <span style="color:orange">**Malta**</span>
 
 ![Malta](https://www.visitmalta.com/wp-content/uploads/2021/05/shutterstock_1413619622-scaled.jpg)
@@ -69,7 +68,7 @@
 ![Deutschland](https://www.bvi.de/fileadmin/_processed_/e/b/csm_bvi_ueber_uns_berlin_BVI_Berlin_BrandenburgerTor685D1834_mod_cfd2fa31ca.jpg)
 
 - <span style="color:orange">**England**</span>
-=======
+- 
 - <span style="color:darkblue">**[Malta](https://en.wikipedia.org/wiki/Malta)**</span>
 
 ![Malta](https://www.visitmalta.com/wp-content/uploads/2021/05/shutterstock_1413619622-scaled.jpg)
@@ -119,7 +118,6 @@
 ![Deutschland](https://www.bvi.de/fileadmin/_processed_/e/b/csm_bvi_ueber_uns_berlin_BVI_Berlin_BrandenburgerTor685D1834_mod_cfd2fa31ca.jpg)
 
 - <span style="color:darkblue">**[England](https://en.wikipedia.org/wiki/England)**</span>
->>>>>>> c7e501450f778ad5c1f7e724ab726236f62f5d2b
 
 ![England](https://www.visitbritain.com/sites/default/files/consumer_components_enhanced/header_image/mobile/vb34141644-london-skyline.jpg)
 
