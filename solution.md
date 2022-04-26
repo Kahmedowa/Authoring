@@ -19,15 +19,15 @@
 
 ## Länder, die ich besucht habe:
 
-- <span style="color:darkblue">**[Malta]()**</span>
+- <span style="color:darkblue">**[Malta](https://en.wikipedia.org/wiki/Malta)**</span>
 
 ![Malta](https://www.visitmalta.com/wp-content/uploads/2021/05/shutterstock_1413619622-scaled.jpg)
 
-- <span style="color:darkblue">**Spanien**</span>
+- <span style="color:darkblue">**[Spanien](https://de.wikipedia.org/wiki/Spanien)**</span>
 
 ![Spanien](https://cdn.pixabay.com/photo/2015/11/18/16/03/valencia-1049389__480.jpg)
 
-- <span style="color:darkblue">**Türkei**</span>
+- <span style="color:darkblue">**[Türkei](https://de.wikipedia.org/wiki/T%C3%BCrkei)**</span>
 
 ![Turkei](https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2020/02/1582547228_Istanbul-T%C3%BCrkei.jpg)
 
@@ -47,7 +47,7 @@
 
 ![Belgium](https://lp-cms-production.imgix.net/2021-08/shutterstock_1255335097.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850)
 
-- <span style="color:darkblue">**Niederlande**</span>
+- <span style="color:darkblue">**[Niederlande](https://de.wikipedia.org/wiki/Niederlande)**</span>
 
 ![Niederlande](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/a7/18/25/caption.jpg?w=500&h=300&s=1)
 
@@ -55,7 +55,7 @@
 
 ![Ungarn](https://www.urlaubstracker.de/wp-content/uploads/2018/04/ungarn-budapest-parlament-sonnenaufgang-1000x596.jpg)
 
-- <span style="color:darkblue">**Tschechien**</span>
+- <span style="color:darkblue">**[Tschechien](https://de.wikipedia.org/wiki/Tschechien)**</span>
 
 ![Tschechien](https://prag.de/wp-content/uploads/2017/11/Prag-Moldau-ein-Fluss-in-der-Hauptstadt-von-Tschechien.jpg)
 
